@@ -1,5 +1,5 @@
 const API_KEY = "3349166a4fmshac5b777be936eddp195f83jsn86aa6a834ff7";
-const url = "https://newsapi.org/v2/everything?q=";
+const url = "newscatcher.p.rapidapi.com";
 
 window.addEventListener("load", () => fetchNews("India"));
 
